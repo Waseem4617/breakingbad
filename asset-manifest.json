@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/breakingbad/static/css/main.5532f6cf.css",
+    "main.js": "/breakingbad/static/js/main.de24510c.js",
+    "static/media/back.webp": "/breakingbad/static/media/back.f90fb19e484f3165984d.webp",
+    "static/media/Spin-1s-200px.gif": "/breakingbad/static/media/Spin-1s-200px.0d8837f6512ccb5bb2fd.gif",
+    "static/media/logo.jpg": "/breakingbad/static/media/logo.bb3f96a10cd183cc6857.jpg",
+    "index.html": "/breakingbad/index.html",
+    "main.5532f6cf.css.map": "/breakingbad/static/css/main.5532f6cf.css.map",
+    "main.de24510c.js.map": "/breakingbad/static/js/main.de24510c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5532f6cf.css",
+    "static/js/main.de24510c.js"
+  ]
+}
